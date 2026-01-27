@@ -23,7 +23,7 @@ I am a Professor at the Vancouver School of Economics, University of British Col
 
 ## Research Interests
 
-My research focuses on **econometrics**, **international trade**, and **macroeconomics**. My methodological work develops tools for estimation and inference in dynamic discrete choice models, finite mixture models, and regime switching models. My applied work examines topics including trade policy, productivity, COVID-19 policy impacts, and the causes of historical famines.
+My research focuses on **econometrics**, **empirical IO**, and **international trade**. My methodological work develops tools for estimation and inference in dynamic discrete choice models, finite mixture models, and regime switching models. My applied work examines topics including trade policy, productivity, COVID-19 policy impacts, and the causes of historical famines.
 
 ## Contact
 

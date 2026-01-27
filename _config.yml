@@ -9,7 +9,7 @@ last_name: Kasahara
 contact_note: >
   Professor, Vancouver School of Economics, University of British Columbia
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Professor of Economics at UBC. Research interests: econometrics, international trade, macroeconomics.
+  Professor of Economics at UBC. Research interests: econometrics, empirical IO, international trade.
 footer_text: >
   Vancouver School of Economics, University of British Columbia
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
