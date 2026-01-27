@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Professor at the Vancouver School of Economics at the University of British Columbia.
+I am a Professor at the Vancouver School of Economics, University of British Columbia.
 
 ## Research Interests
 
