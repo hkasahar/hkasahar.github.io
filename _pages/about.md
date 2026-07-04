@@ -25,6 +25,10 @@ I am a Professor at the Vancouver School of Economics, University of British Col
 
 My research focuses on **econometrics**, **empirical IO**, and **international trade**. My methodological work develops tools for estimation and inference in dynamic discrete choice models, finite mixture models, and regime switching models. My applied work examines topics including trade policy, productivity, COVID-19 policy impacts, and the causes of historical famines.
 
+## Software
+
+- **[claude-code-skills](https://github.com/hkasahar/claude-code-skills)** — Claude Code skills for research workflows: delegate heavy tasks to the Codex and Antigravity CLIs, and convert PDFs to clean Markdown.
+
 ## Contact
 
 - **Email:** [hkasahar@mail.ubc.ca](mailto:hkasahar@mail.ubc.ca)
