@@ -28,6 +28,7 @@ My research focuses on **econometrics**, **empirical IO**, and **international t
 ## Software
 
 - **[claude-code-skills](https://github.com/hkasahar/claude-code-skills)** — Claude Code skills for research workflows: delegate heavy tasks to the Codex and Antigravity CLIs, and convert PDFs to clean Markdown.
+- **[ak](https://github.com/bayesiahn/ak)** — R package for event-study designs with discrete outcomes, using transition independence in place of parallel trends.
 
 ## Contact
 
