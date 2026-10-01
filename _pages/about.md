@@ -9,6 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false
 
+selected_working_papers: true
 selected_papers: true
 social: true
 
